@@ -1,0 +1,28 @@
+body{
+    background-image: url("Camera.jpeg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.blah{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.start{
+    margin-top: 100px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: blanchedalmond;
+    color: black;
+    width: 100%;
+    line-height: 3;
+}
+
+video{
+    margin-top: 200px;
+}
